@@ -1,2 +1,2 @@
-# phpTutorial
-Learn PHP
+** phpTutorial **
+Basic tutorial to learn PHP 
