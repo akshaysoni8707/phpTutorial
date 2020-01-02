@@ -8,7 +8,22 @@
 </head>
 <body>
     <?php
-    echo "Hello World";
-    ?>
+    $num = 1;
+    $floatnum = 2.6;
+    $char = 'a';
+    $stringvar = 'Akshay';
+    echo "Hello World!<br>";
+    echo "num = $num <br>";
+    echo "floatnum = $floatnum <br>";
+    echo "char = $char <br>";
+    echo "string = $stringvar <br>";
+    echo "concatination ". $char ." <br>";
+    print "Hello World!<br>";
+    print "num = $num <br>";
+    print "floatnum = $floatnum <br>";
+    print "char = $char <br>";
+    print "string = $stringvar <br>";
+    print "concatination ". $char ." <br>";
+    ?>   
 </body>
 </html>
